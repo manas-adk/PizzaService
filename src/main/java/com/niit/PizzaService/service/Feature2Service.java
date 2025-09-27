@@ -6,4 +6,8 @@ public class Feature2Service {
         // testing567
         //testing1234
     }
+
+    public void feature2method2() {
+
+    }
 }
