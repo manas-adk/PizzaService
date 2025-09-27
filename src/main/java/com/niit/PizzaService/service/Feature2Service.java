@@ -1,7 +1,7 @@
 package com.niit.PizzaService.service;
 
 public class Feature2Service {
-    public void feature2Method() {
+    public void feature1Method1() {
         //testing
         // testing567
         //testing1234
